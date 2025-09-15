@@ -1,16 +1,17 @@
-## Hi there 👋
+## About me
 
-<!--
-**eigenes/eigenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Developer
 
-Here are some ideas to get you started:
+- HTML5, CSS3, JavaScript (ES6+), TypeScript.
+- React, Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro, Svelte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<p align="center">
+<a href="https://github.com/eigenes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eigenes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eigenes&layout=compact&langs_count=8&theme=algolia"/> </a>
+</p>
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=fhgr4xgelpm4qtkc6wzro1dii&count=1&width=840px" alt="Spotify">
+</div>
